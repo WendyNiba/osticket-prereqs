@@ -27,8 +27,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create a Resource group
 - Creat a virtual Machine account
 - Put both under the same name
-- Make sure it is under the same region and choose windows 10 
- 
+- Make sure it is under the same region and choose windows 10
+- The following picture is how it should look like 
+ <img src="https://i.imgur.com/8dgsOhR.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <h2>Installation Steps</h2>
 
