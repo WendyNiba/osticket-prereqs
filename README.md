@@ -38,9 +38,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/mJpVN6D.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. If you are on winows open your remote desktop app, if you are on an apple device you will need to download the remote desktop app from the apple store
- 2. copy and paste your ip address from your Azure virtual machine and create an account
- 3. Go to windows, run, control panel, programs, internet information services, click on CGI
+ If you are on winows open your remote desktop app, if you are on an apple device you will need to download the remote desktop app from the apple store
+ 
+ copy and paste your ip address from your Azure virtual machine and create an account
+ 
+  Go to windows, run, control panel, programs, internet information services, click on CGI
  Here is the link for all of the files you will need https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
  Above is a picture of how your screen should look like after completing this step
 </p>
@@ -50,17 +52,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/04RCVTx.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1. From the link earlier click on the PHP management file and download it https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view
- 2. next download the rewrite file
+From the link earlier click on the PHP management file and download it https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view
+ 
+ Next download the rewrite file
  https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view
- 3. Go to This PC, windows(c), right click, new, folder, name it PHP
- 4. Next download the PHP 7.3.8 filehttps://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view
- 5. Go into thiss file and click "extract all"
- 6. Next click and download the VC_redist file
+ 
+  Go to This PC, windows(c), right click, new, folder, name it PHP
+ 
+ Next download the PHP 7.3.8 filehttps://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view
+ 
+ Go into thiss file and click "extract all"
+ 
+  Next click and download the VC_redist file
  https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view
- 7. Do the same with the MySQL file
+ 
+ Do the same with the MySQL file
  https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view
- 8. Create a username and password 
+ 
+ Create a username and password 
 </p>
 <br />
 
