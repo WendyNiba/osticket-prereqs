@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="[[[https://i.imgur.com/8dgsOhR.jpg]](https://i.imgur.com/mJpVN6D.jpg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mJpVN6D.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1. If you are on winows open your remote desktop app, if you are on an apple device you will need to download the remote desktop app from the apple store
