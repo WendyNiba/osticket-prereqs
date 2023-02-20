@@ -65,7 +65,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="[[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/iPr8UQS.jpg)](https://i.imgur.com/8dgsOhR.jpg](https://i.imgur.com/MTjrEuT.jpg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/r3ZmDYR.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open IIS as an Admin
